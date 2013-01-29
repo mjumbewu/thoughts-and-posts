@@ -1,5 +1,5 @@
-Decoding JSON is bulk in Python
-===============================
+Decoding JSON from a relational DB in Python
+============================================
 
 Lately I've been creating a fair number of APIs that store some JSON in a field
 in a database. Often this is a good reason to use a document database like Mongo
